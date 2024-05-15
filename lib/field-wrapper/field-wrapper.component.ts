@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, Optional } from '@angular/core';
 import { FieldWrapper } from '@ngx-formly/core';
-import { FormlyBoxTemplates, hasTplNameValue, resolveTplName } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, hasTplNameValue, resolveTplName } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'formly-field-wrapper',

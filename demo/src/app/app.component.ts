@@ -8,21 +8,21 @@ import { firstValueFrom, map, timer } from 'rxjs';
 import { tap } from 'rxjs/operators';
 
 import { FormlyFieldConfig, FormlyModule } from '@ngx-formly/core';
-import { NzFormlyModule } from '@xmagic/nz-formly';
-import { FormlyNzButtonModule } from '@xmagic/nz-formly/button';
-import { FormlyCommonModule } from '@xmagic/nz-formly/common';
-import { FormlyNzFormFieldModule } from '@xmagic/nz-formly/field-wrapper';
-import { FormlyNzGridModule } from '@xmagic/nz-formly/grid';
-import { FormlyNzInputModule } from '@xmagic/nz-formly/input';
-import { FormlyNzRadioModule } from '@xmagic/nz-formly/radio';
-import { FormlyRefTemplateModule } from '@xmagic/nz-formly/ref-template';
-import { FormlyNzSelectModule } from '@xmagic/nz-formly/select';
-import { FormlyNzTreeSelectModule } from '@xmagic/nz-formly/tree-select';
-import { NzxDirectiveModule } from '@xmagic/nzx-antd/directive';
-import { NzxHttpInterceptorModule } from '@xmagic/nzx-antd/http-interceptor';
-import { NzxLayoutPageModule } from '@xmagic/nzx-antd/layout-page';
-import { NzxPipeModule } from '@xmagic/nzx-antd/pipe';
-import { NzxColumn, NzxTableComponent, NzxTableModule } from '@xmagic/nzx-antd/table';
+import { NzFormlyModule } from '@freezesoul/nz-formly';
+import { FormlyNzButtonModule } from '@freezesoul/nz-formly/button';
+import { FormlyCommonModule } from '@freezesoul/nz-formly/common';
+import { FormlyNzFormFieldModule } from '@freezesoul/nz-formly/field-wrapper';
+import { FormlyNzGridModule } from '@freezesoul/nz-formly/grid';
+import { FormlyNzInputModule } from '@freezesoul/nz-formly/input';
+import { FormlyNzRadioModule } from '@freezesoul/nz-formly/radio';
+import { FormlyRefTemplateModule } from '@freezesoul/nz-formly/ref-template';
+import { FormlyNzSelectModule } from '@freezesoul/nz-formly/select';
+import { FormlyNzTreeSelectModule } from '@freezesoul/nz-formly/tree-select';
+import { NzxDirectiveModule } from '@freezesoul/nzx-antd/directive';
+import { NzxHttpInterceptorModule } from '@freezesoul/nzx-antd/http-interceptor';
+import { NzxLayoutPageModule } from '@freezesoul/nzx-antd/layout-page';
+import { NzxPipeModule } from '@freezesoul/nzx-antd/pipe';
+import { NzxColumn, NzxTableComponent, NzxTableModule } from '@freezesoul/nzx-antd/table';
 import { NzButtonModule } from 'ng-zorro-antd/button';
 import { NzCardModule } from 'ng-zorro-antd/card';
 import { NzDividerModule } from 'ng-zorro-antd/divider';
@@ -35,7 +35,7 @@ import { NzTagModule } from 'ng-zorro-antd/tag';
 import { NzTreeModule } from 'ng-zorro-antd/tree';
 
 import { MenuData } from './menu-data';
-import { NzxUtils } from '@xmagic/nzx-antd/util';
+import { NzxUtils } from '@freezesoul/nzx-antd/util';
 import { NzTreeSelectComponent } from 'ng-zorro-antd/tree-select';
 
 @Component({

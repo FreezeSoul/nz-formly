@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { FormlyModule } from '@ngx-formly/core';
 import { FormlyFieldSelectComponent } from './select.component';
 import { NzSelectModule } from 'ng-zorro-antd/select';
-import { NzxPipeModule } from '@xmagic/nzx-antd/pipe';
+import { NzxPipeModule } from '@freezesoul/nzx-antd/pipe';
 import { NzOutletModule } from 'ng-zorro-antd/core/outlet';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';

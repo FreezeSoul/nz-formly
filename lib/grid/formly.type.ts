@@ -1,6 +1,6 @@
 import { IndexableObject } from 'ng-zorro-antd/core/types';
 import { NzAlign, NzJustify } from 'ng-zorro-antd/grid/row.directive';
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { EmbeddedProperty } from 'ng-zorro-antd/grid';
 
 type strNum = string | number;

@@ -1,5 +1,5 @@
 import { TemplateRef } from '@angular/core';
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import {
   NzShowUploadList,
   NzUploadChangeParam,
@@ -10,8 +10,8 @@ import {
   UploadFilter
 } from 'ng-zorro-antd/upload';
 import { Observable, Subscription } from 'rxjs';
-import { NzxUploadComponent } from '@xmagic/nzx-antd/upload';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { NzxUploadComponent } from '@freezesoul/nzx-antd/upload';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * 多行文本模板配置

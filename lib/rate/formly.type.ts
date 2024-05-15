@@ -1,7 +1,7 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef } from '@angular/core';
 import { NzRateComponent } from 'ng-zorro-antd/rate';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * Rate模板配置

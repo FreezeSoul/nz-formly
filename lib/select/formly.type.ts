@@ -1,10 +1,10 @@
-import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef } from '@angular/core';
 import { NzOptionComponent, NzSelectComponent } from 'ng-zorro-antd/select';
-import { OptionItem } from '@xmagic/nzx-antd/checkbox';
-import { AutocompleteFieldConfig } from '@xmagic/nz-formly/input';
+import { OptionItem } from '@freezesoul/nzx-antd/checkbox';
+import { AutocompleteFieldConfig } from '@freezesoul/nz-formly/input';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * Select模板配置

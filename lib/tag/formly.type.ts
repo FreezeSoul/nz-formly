@@ -1,4 +1,4 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzTagComponent } from 'ng-zorro-antd/tag';
 import { TemplateRef } from '@angular/core';
 

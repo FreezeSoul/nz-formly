@@ -1,7 +1,7 @@
 import { TemplateRef } from '@angular/core';
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzTimePickerComponent } from 'ng-zorro-antd/time-picker';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * 多行文本模板配置

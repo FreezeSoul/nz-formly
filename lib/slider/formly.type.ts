@@ -1,6 +1,6 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzSliderShowTooltip, NzSliderComponent, NzMarks, NzSliderValue } from 'ng-zorro-antd/slider';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * Slider模板配置

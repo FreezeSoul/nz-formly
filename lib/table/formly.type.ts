@@ -1,4 +1,4 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef, TrackByFunction } from '@angular/core';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 import { Observable } from 'rxjs';
@@ -11,7 +11,7 @@ import {
   PageInfo,
   RowEventArg,
   SorterResult
-} from '@xmagic/nzx-antd/table';
+} from '@freezesoul/nzx-antd/table';
 import {
   NzTableLayout,
   NzTablePaginationPosition,
@@ -20,8 +20,8 @@ import {
   NzTableSize
 } from 'ng-zorro-antd/table';
 import { PaginationItemRenderContext } from 'ng-zorro-antd/pagination';
-import { FetchParams } from '@xmagic/nzx-antd/service';
-import { Any } from '@xmagic/nzx-antd';
+import { FetchParams } from '@freezesoul/nzx-antd/service';
+import { Any } from '@freezesoul/nzx-antd';
 
 /**
  * Table模板配置

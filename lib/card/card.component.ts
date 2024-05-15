@@ -5,7 +5,7 @@ import {
   NzFormlyFieldConfig,
   resolveTplName,
   resolveTplNameArray
-} from '@xmagic/nz-formly/common';
+} from '@freezesoul/nz-formly/common';
 import { CardOptions } from './formly.type';
 
 @Component({

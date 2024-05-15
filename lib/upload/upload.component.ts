@@ -1,6 +1,6 @@
 import { Component, Optional } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { FormlyBoxTemplates, NzFormlyFieldConfig, resolveTplName } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, NzFormlyFieldConfig, resolveTplName } from '@freezesoul/nz-formly/common';
 import { UploadOptions } from './formly.type';
 
 @Component({

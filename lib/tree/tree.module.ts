@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormlyFieldTreeComponent } from './tree.component';
 import { NzTreeModule } from 'ng-zorro-antd/tree';
-import { NzxPipeModule } from '@xmagic/nzx-antd/pipe';
+import { NzxPipeModule } from '@freezesoul/nzx-antd/pipe';
 import { FormlyModule } from '@ngx-formly/core';
 
 const COMPONENT = FormlyFieldTreeComponent;

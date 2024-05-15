@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
 import { SwitchOptions } from './formly.type';
-import { NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'nz-formly-switch-component',

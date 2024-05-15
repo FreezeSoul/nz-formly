@@ -5,9 +5,9 @@ import { ApplicationConfig, importProvidersFrom } from '@angular/core';
 import { provideAnimations } from '@angular/platform-browser/animations';
 import { provideRouter, withComponentInputBinding, withHashLocation } from '@angular/router';
 
-import { NzxAntdService } from '@xmagic/nzx-antd';
-import { NzxHttpInterceptorModule } from '@xmagic/nzx-antd/http-interceptor';
-import { NzxModalModule } from '@xmagic/nzx-antd/modal';
+import { NzxAntdService } from '@freezesoul/nzx-antd';
+import { NzxHttpInterceptorModule } from '@freezesoul/nzx-antd/http-interceptor';
+import { NzxModalModule } from '@freezesoul/nzx-antd/modal';
 import { NZ_I18N, zh_CN } from 'ng-zorro-antd/i18n';
 
 import { routes } from './app.routes';

@@ -2,7 +2,7 @@ import { ChangeDetectionStrategy, Component, OnInit, Optional, ViewChild } from 
 import { FieldWrapper } from '@ngx-formly/core';
 import { NzModalComponent } from 'ng-zorro-antd/modal';
 import { FormlyFieldConfig } from '@ngx-formly/core/lib/models';
-import { FormlyBoxTemplates, resolveTplName } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, resolveTplName } from '@freezesoul/nz-formly/common';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 
 @Component({

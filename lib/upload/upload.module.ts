@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { FormlyFieldUploadComponent } from './upload.component';
 import { FormlyModule } from '@ngx-formly/core';
-import { NzxUploadModule } from '@xmagic/nzx-antd/upload';
+import { NzxUploadModule } from '@freezesoul/nzx-antd/upload';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 

@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { FormlyModule } from '@ngx-formly/core';
 import { FormlyFieldSwitchComponent } from './switch.component';
-import { NzxSwitchModule } from '@xmagic/nzx-antd/switch';
+import { NzxSwitchModule } from '@freezesoul/nzx-antd/switch';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 

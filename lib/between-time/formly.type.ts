@@ -1,10 +1,10 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
-import { BaseBetweenOptions } from '@xmagic/nz-formly/between-input';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
+import { BaseBetweenOptions } from '@freezesoul/nz-formly/between-input';
 import { NzStatus } from 'ng-zorro-antd/core/types';
 import { TemplateRef } from '@angular/core';
-import { NzxBetweenTimeComponent } from '@xmagic/nzx-antd/between-time';
-import { DisabledDateType } from '@xmagic/nzx-antd/between-datetime';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { NzxBetweenTimeComponent } from '@freezesoul/nzx-antd/between-time';
+import { DisabledDateType } from '@freezesoul/nzx-antd/between-datetime';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 export interface BaseBetweenTimeOptions<T> extends ControlOptions {
   /**

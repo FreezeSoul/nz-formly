@@ -1,5 +1,5 @@
 import { TemplateRef } from '@angular/core';
-import { DropdownWrapperOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { DropdownWrapperOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 
 /**
  * Divider 配置项

@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 
 import { FormlyModule } from '@ngx-formly/core';
-import { defaultPlaceholderExtensionOption, valueChangesExtensionOption } from '@xmagic/nz-formly/extension';
-import { NzxFormUtils } from '@xmagic/nzx-antd/util';
+import { defaultPlaceholderExtensionOption, valueChangesExtensionOption } from '@freezesoul/nz-formly/extension';
+import { NzxFormUtils } from '@freezesoul/nzx-antd/util';
 
 @NgModule({
   imports: [

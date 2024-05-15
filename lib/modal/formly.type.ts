@@ -1,5 +1,5 @@
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef } from '@angular/core';
 import { NzModalComponent, StyleObjectLike } from 'ng-zorro-antd/modal';
 

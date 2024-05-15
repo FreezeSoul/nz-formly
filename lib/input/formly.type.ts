@@ -1,9 +1,9 @@
 import { TemplateRef } from '@angular/core';
 import { NzSafeAny, NzSizeLDSType } from 'ng-zorro-antd/core/types';
-import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzInputNumberComponent } from 'ng-zorro-antd/input-number';
-import { OptionItem } from '@xmagic/nzx-antd/checkbox';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { OptionItem } from '@freezesoul/nzx-antd/checkbox';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 export interface BaseInputOptions {
   /**

@@ -1,4 +1,4 @@
-import { ControlOptions } from '@xmagic/nz-formly/common';
+import { ControlOptions } from '@freezesoul/nz-formly/common';
 import { NgClassType, NzTSType } from 'ng-zorro-antd/core/types';
 import { NzFormTooltipIcon } from 'ng-zorro-antd/form/form-label.component';
 import { EmbeddedProperty } from 'ng-zorro-antd/grid';

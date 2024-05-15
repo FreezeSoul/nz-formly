@@ -1,7 +1,7 @@
 import { ChangeDetectionStrategy, Component, Optional } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
 import { NzTreeNode } from 'ng-zorro-antd/tree';
-import { FormlyBoxTemplates, resolveTplName } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, resolveTplName } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'nz-formly-tree-select-component',

@@ -1,6 +1,6 @@
 import { NzButtonSize } from 'ng-zorro-antd/button';
-import { DropdownWrapperOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
-import { ButtonOptions } from '@xmagic/nz-formly/button';
+import { DropdownWrapperOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
+import { ButtonOptions } from '@freezesoul/nz-formly/button';
 /**
  * 按钮组模板配置
  */

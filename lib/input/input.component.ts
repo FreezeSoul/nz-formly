@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, Optional } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { FormlyBoxTemplates, resolveTplName, hasTplNameValue } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, resolveTplName, hasTplNameValue } from '@freezesoul/nz-formly/common';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 
 @Component({

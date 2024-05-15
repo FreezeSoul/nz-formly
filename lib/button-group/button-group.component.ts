@@ -2,7 +2,7 @@ import { AfterViewInit, ChangeDetectionStrategy, Component, OnDestroy, QueryList
 import { FieldType } from '@ngx-formly/core';
 import { NzDropDownDirective } from 'ng-zorro-antd/dropdown';
 import { Subject } from 'rxjs';
-import { getRootFiled } from '@xmagic/nz-formly/common';
+import { getRootFiled } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'nz-formly-button-group',

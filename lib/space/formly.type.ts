@@ -1,4 +1,4 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef } from '@angular/core';
 import { NzSpaceDirection, NzSpaceSize, NzSpaceAlign } from 'ng-zorro-antd/space';
 

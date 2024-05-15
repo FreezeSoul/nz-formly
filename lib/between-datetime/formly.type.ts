@@ -1,10 +1,10 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef } from '@angular/core';
 import { FunctionProp, NzSafeAny } from 'ng-zorro-antd/core/types';
-import { BaseBetweenOptions } from '@xmagic/nz-formly/between-input';
+import { BaseBetweenOptions } from '@freezesoul/nz-formly/between-input';
 import { CompatibleDate, NzDateMode, SupportTimeOptions } from 'ng-zorro-antd/date-picker';
 import { NzDatePickerI18nInterface } from 'ng-zorro-antd/i18n';
-import { NzxBetweenDatetimeComponent, DisabledDateType } from '@xmagic/nzx-antd/between-datetime';
+import { NzxBetweenDatetimeComponent, DisabledDateType } from '@freezesoul/nzx-antd/between-datetime';
 
 /**
  * BetweenDatetime模板配置

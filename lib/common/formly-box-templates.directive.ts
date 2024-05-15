@@ -11,7 +11,7 @@ import {
   SimpleChanges,
   TemplateRef
 } from '@angular/core';
-import { NamedTemplate } from '@xmagic/nzx-antd/directive';
+import { NamedTemplate } from '@freezesoul/nzx-antd/directive';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 
 @Directive({

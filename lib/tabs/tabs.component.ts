@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, Optional, TemplateRef } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { FormlyBoxTemplates, resolveTplName } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, resolveTplName } from '@freezesoul/nz-formly/common';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 import { TabsItem } from './formly.type';
 

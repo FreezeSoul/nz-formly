@@ -1,9 +1,9 @@
-import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzSafeAny, NzSizeLDSType } from 'ng-zorro-antd/core/types';
-import { OptionItem } from '@xmagic/nzx-antd/checkbox';
+import { OptionItem } from '@freezesoul/nzx-antd/checkbox';
 import { NzRadioButtonStyle } from 'ng-zorro-antd/radio';
 import { TemplateRef } from '@angular/core';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * Radio模板配置

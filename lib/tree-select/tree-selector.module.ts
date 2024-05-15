@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormlyModule } from '@ngx-formly/core';
 import { FormlyFieldTreeSelectComponent } from './tree-select.component';
 import { NzTreeSelectModule } from 'ng-zorro-antd/tree-select';
-import { NzxPipeModule } from '@xmagic/nzx-antd/pipe';
+import { NzxPipeModule } from '@freezesoul/nzx-antd/pipe';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 

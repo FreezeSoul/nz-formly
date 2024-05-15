@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { SliderOptions } from './formly.type';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 import { NzSliderShowTooltip } from 'ng-zorro-antd/slider';

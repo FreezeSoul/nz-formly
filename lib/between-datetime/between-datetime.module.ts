@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { FormlyFieldBetweenDatetimeComponent } from './between-datetime.component';
 import { FormlyModule } from '@ngx-formly/core';
-import { NzxBetweenDatetimeModule } from '@xmagic/nzx-antd/between-datetime';
+import { NzxBetweenDatetimeModule } from '@freezesoul/nzx-antd/between-datetime';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 

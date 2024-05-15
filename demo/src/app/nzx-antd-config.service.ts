@@ -2,11 +2,11 @@ import { HttpRequest } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { first, map, Observable, throwError } from 'rxjs';
 
-import { DEFAULT_STATUS_MESSAGE_MAP, NzxAntdService, ResponseSetting, TableSetting } from '@xmagic/nzx-antd';
-import { HttpRequestOptions } from '@xmagic/nzx-antd/nzx-antd.service';
+import { DEFAULT_STATUS_MESSAGE_MAP, NzxAntdService, ResponseSetting, TableSetting } from '@freezesoul/nzx-antd';
+import { HttpRequestOptions } from '@freezesoul/nzx-antd/nzx-antd.service';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
 import { NzMessageService } from 'ng-zorro-antd/message';
-import { NzxStorageService } from '@xmagic/nzx-antd/service';
+import { NzxStorageService } from '@freezesoul/nzx-antd/service';
 
 @Injectable({
   providedIn: 'root'

@@ -2,7 +2,7 @@ import { ChangeDetectionStrategy, Component, OnInit, Optional, ViewChild } from 
 import { FieldType } from '@ngx-formly/core';
 import { NzDropdownMenuComponent } from 'ng-zorro-antd/dropdown';
 import { ReplaySubject } from 'rxjs';
-import { FormlyBoxTemplates } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'nz-formly-dropdown',

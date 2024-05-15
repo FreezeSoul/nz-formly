@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, Optional } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { FormlyBoxTemplates } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'nz-formly-divider',

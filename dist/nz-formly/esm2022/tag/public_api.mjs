@@ -1,0 +1,4 @@
+export * from './tag.component';
+export * from './tag.module';
+export * from './formly.type';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL2xpYi90YWcvcHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFjLGlCQUFpQixDQUFDO0FBQ2hDLGNBQWMsY0FBYyxDQUFDO0FBQzdCLGNBQWMsZUFBZSxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSAnLi90YWcuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi90YWcubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9mb3JtbHkudHlwZSc7XHJcbiJdfQ==

@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { NzCardModule } from 'ng-zorro-antd/card';
 import { FormlyModule } from '@ngx-formly/core';
 import { ModalWrapperComponent } from './modal-wrapper.component';
-import { NzxModalModule } from '@xmagic/nzx-antd/modal';
+import { NzxModalModule } from '@freezesoul/nzx-antd/modal';
 import { NzModalModule } from 'ng-zorro-antd/modal';
 
 const COMPONENT = ModalWrapperComponent;

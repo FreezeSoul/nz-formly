@@ -1,8 +1,8 @@
 import { FormlyFieldConfig } from '@ngx-formly/core';
 import { TemplateRef } from '@angular/core';
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzDateMode, NzDatePickerComponent, SupportTimeOptions } from 'ng-zorro-antd/date-picker';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * DatePicker模板配置

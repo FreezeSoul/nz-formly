@@ -1,7 +1,7 @@
 import { TemplateRef, Type } from '@angular/core';
 import { FieldWrapper } from '@ngx-formly/core';
 import { NzSizeDSType } from 'ng-zorro-antd/core/types';
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 
 /**
  * 卡片模板配置

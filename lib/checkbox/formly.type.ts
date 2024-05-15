@@ -1,7 +1,7 @@
-import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
-import { NzxCheckboxOption } from '@xmagic/nzx-antd/checkbox';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { NzxCheckboxOption } from '@freezesoul/nzx-antd/checkbox';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * Checkbox模板配置

@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { NzModalModule } from 'ng-zorro-antd/modal';
 import { FormlyFieldModalComponent } from './modal.component';
 import { FormlyModule } from '@ngx-formly/core';
-import { NzxModalModule } from '@xmagic/nzx-antd/modal';
+import { NzxModalModule } from '@freezesoul/nzx-antd/modal';
 import { NzOutletModule } from 'ng-zorro-antd/core/outlet';
 
 const COMPONENT = FormlyFieldModalComponent;

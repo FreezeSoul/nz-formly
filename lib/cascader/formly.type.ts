@@ -2,8 +2,8 @@ import { TemplateRef } from '@angular/core';
 import { FormlyFieldConfig } from '@ngx-formly/core';
 import { NzCascaderComponent, NzCascaderOption, NzShowSearchOptions } from 'ng-zorro-antd/cascader';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
-import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * 级联模板配置

@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { NzCascaderModule } from 'ng-zorro-antd/cascader';
 import { FormlyModule } from '@ngx-formly/core';
 import { FormlyFieldCascaderComponent } from './cascader.component';
-import { NzxPipeModule } from '@xmagic/nzx-antd/pipe';
+import { NzxPipeModule } from '@freezesoul/nzx-antd/pipe';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 

@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, Optional } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { FormlyBoxTemplates, resolveTplName } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, resolveTplName } from '@freezesoul/nz-formly/common';
 
 /**
  * 引用模板，支持HTML,TemplateRef对象,或者NamedTemplate

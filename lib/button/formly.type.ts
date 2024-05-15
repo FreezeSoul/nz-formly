@@ -1,5 +1,5 @@
 import { NzButtonShape, NzButtonSize, NzButtonType } from 'ng-zorro-antd/button';
-import { DropdownWrapperOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { DropdownWrapperOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { TemplateRef } from '@angular/core';
 
 /**

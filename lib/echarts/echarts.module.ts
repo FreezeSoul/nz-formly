@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { FormlyFieldEchartsComponent } from './echarts.component';
 import { NgxEchartsModule } from 'ngx-echarts';
 import { FormlyModule } from '@ngx-formly/core';
-import { NzxPipeModule } from '@xmagic/nzx-antd/pipe';
+import { NzxPipeModule } from '@freezesoul/nzx-antd/pipe';
 const COMPONENT = FormlyFieldEchartsComponent;
 @NgModule({
   declarations: [COMPONENT],

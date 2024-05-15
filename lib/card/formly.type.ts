@@ -1,6 +1,6 @@
 import { TemplateRef } from '@angular/core';
-import { NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
-import { CardWrapperOptions } from '@xmagic/nz-formly/card-wrapper';
+import { NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
+import { CardWrapperOptions } from '@freezesoul/nz-formly/card-wrapper';
 
 /**
  * 卡片模板配置

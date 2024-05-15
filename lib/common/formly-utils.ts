@@ -3,7 +3,7 @@ import { NzSafeAny } from 'ng-zorro-antd/core/types';
 import { NzDropDownDirective } from 'ng-zorro-antd/dropdown';
 import { FormlyFieldConfig, FormlyFieldProps } from '@ngx-formly/core';
 import { Observable } from 'rxjs';
-import { AsyncOption } from '@xmagic/nzx-antd/pipe';
+import { AsyncOption } from '@freezesoul/nzx-antd/pipe';
 import { FormlyBoxTemplates } from './formly-box-templates.directive';
 
 /**

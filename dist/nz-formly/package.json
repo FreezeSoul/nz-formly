@@ -1,0 +1,285 @@
+{
+  "name": "@freezesoul/nz-formly",
+  "version": "17.0.15",
+  "description": "基于ng-zorro-antd UI 扩展的ngx-formly组件库",
+  "author": "m310851010",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m310851010/nz-formly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m310851010/nz-formly/issues"
+  },
+  "homepage": "https://github.com/m310851010/nz-formly",
+  "keywords": [
+    "angular",
+    "angular13",
+    "angular14",
+    "angular15",
+    "angular16",
+    "angular17",
+    "ngx-formly",
+    "ngx-formly ui",
+    "ngx-formly ng-zorro-antd",
+    "ngx-formly antd design"
+  ],
+  "license": "MIT",
+  "peerDependencies": {},
+  "module": "fesm2022/freezesoul-nz-formly.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/freezesoul-nz-formly.mjs",
+      "esm": "./esm2022/freezesoul-nz-formly.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly.mjs"
+    },
+    "./alert": {
+      "types": "./alert/index.d.ts",
+      "esm2022": "./esm2022/alert/freezesoul-nz-formly-alert.mjs",
+      "esm": "./esm2022/alert/freezesoul-nz-formly-alert.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-alert.mjs"
+    },
+    "./between-input": {
+      "types": "./between-input/index.d.ts",
+      "esm2022": "./esm2022/between-input/freezesoul-nz-formly-between-input.mjs",
+      "esm": "./esm2022/between-input/freezesoul-nz-formly-between-input.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-between-input.mjs"
+    },
+    "./between-datetime": {
+      "types": "./between-datetime/index.d.ts",
+      "esm2022": "./esm2022/between-datetime/freezesoul-nz-formly-between-datetime.mjs",
+      "esm": "./esm2022/between-datetime/freezesoul-nz-formly-between-datetime.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-between-datetime.mjs"
+    },
+    "./between-time": {
+      "types": "./between-time/index.d.ts",
+      "esm2022": "./esm2022/between-time/freezesoul-nz-formly-between-time.mjs",
+      "esm": "./esm2022/between-time/freezesoul-nz-formly-between-time.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-between-time.mjs"
+    },
+    "./button-group": {
+      "types": "./button-group/index.d.ts",
+      "esm2022": "./esm2022/button-group/freezesoul-nz-formly-button-group.mjs",
+      "esm": "./esm2022/button-group/freezesoul-nz-formly-button-group.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-button-group.mjs"
+    },
+    "./card": {
+      "types": "./card/index.d.ts",
+      "esm2022": "./esm2022/card/freezesoul-nz-formly-card.mjs",
+      "esm": "./esm2022/card/freezesoul-nz-formly-card.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-card.mjs"
+    },
+    "./button": {
+      "types": "./button/index.d.ts",
+      "esm2022": "./esm2022/button/freezesoul-nz-formly-button.mjs",
+      "esm": "./esm2022/button/freezesoul-nz-formly-button.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-button.mjs"
+    },
+    "./card-wrapper": {
+      "types": "./card-wrapper/index.d.ts",
+      "esm2022": "./esm2022/card-wrapper/freezesoul-nz-formly-card-wrapper.mjs",
+      "esm": "./esm2022/card-wrapper/freezesoul-nz-formly-card-wrapper.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-card-wrapper.mjs"
+    },
+    "./checkbox": {
+      "types": "./checkbox/index.d.ts",
+      "esm2022": "./esm2022/checkbox/freezesoul-nz-formly-checkbox.mjs",
+      "esm": "./esm2022/checkbox/freezesoul-nz-formly-checkbox.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-checkbox.mjs"
+    },
+    "./cascader": {
+      "types": "./cascader/index.d.ts",
+      "esm2022": "./esm2022/cascader/freezesoul-nz-formly-cascader.mjs",
+      "esm": "./esm2022/cascader/freezesoul-nz-formly-cascader.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-cascader.mjs"
+    },
+    "./common": {
+      "types": "./common/index.d.ts",
+      "esm2022": "./esm2022/common/freezesoul-nz-formly-common.mjs",
+      "esm": "./esm2022/common/freezesoul-nz-formly-common.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-common.mjs"
+    },
+    "./date-picker": {
+      "types": "./date-picker/index.d.ts",
+      "esm2022": "./esm2022/date-picker/freezesoul-nz-formly-date-picker.mjs",
+      "esm": "./esm2022/date-picker/freezesoul-nz-formly-date-picker.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-date-picker.mjs"
+    },
+    "./date-range-picker": {
+      "types": "./date-range-picker/index.d.ts",
+      "esm2022": "./esm2022/date-range-picker/freezesoul-nz-formly-date-range-picker.mjs",
+      "esm": "./esm2022/date-range-picker/freezesoul-nz-formly-date-range-picker.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-date-range-picker.mjs"
+    },
+    "./divider": {
+      "types": "./divider/index.d.ts",
+      "esm2022": "./esm2022/divider/freezesoul-nz-formly-divider.mjs",
+      "esm": "./esm2022/divider/freezesoul-nz-formly-divider.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-divider.mjs"
+    },
+    "./dropdown-wrapper": {
+      "types": "./dropdown-wrapper/index.d.ts",
+      "esm2022": "./esm2022/dropdown-wrapper/freezesoul-nz-formly-dropdown-wrapper.mjs",
+      "esm": "./esm2022/dropdown-wrapper/freezesoul-nz-formly-dropdown-wrapper.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-dropdown-wrapper.mjs"
+    },
+    "./dropdown": {
+      "types": "./dropdown/index.d.ts",
+      "esm2022": "./esm2022/dropdown/freezesoul-nz-formly-dropdown.mjs",
+      "esm": "./esm2022/dropdown/freezesoul-nz-formly-dropdown.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-dropdown.mjs"
+    },
+    "./echarts": {
+      "types": "./echarts/index.d.ts",
+      "esm2022": "./esm2022/echarts/freezesoul-nz-formly-echarts.mjs",
+      "esm": "./esm2022/echarts/freezesoul-nz-formly-echarts.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-echarts.mjs"
+    },
+    "./extension": {
+      "types": "./extension/index.d.ts",
+      "esm2022": "./esm2022/extension/freezesoul-nz-formly-extension.mjs",
+      "esm": "./esm2022/extension/freezesoul-nz-formly-extension.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-extension.mjs"
+    },
+    "./field-wrapper": {
+      "types": "./field-wrapper/index.d.ts",
+      "esm2022": "./esm2022/field-wrapper/freezesoul-nz-formly-field-wrapper.mjs",
+      "esm": "./esm2022/field-wrapper/freezesoul-nz-formly-field-wrapper.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-field-wrapper.mjs"
+    },
+    "./input": {
+      "types": "./input/index.d.ts",
+      "esm2022": "./esm2022/input/freezesoul-nz-formly-input.mjs",
+      "esm": "./esm2022/input/freezesoul-nz-formly-input.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-input.mjs"
+    },
+    "./grid": {
+      "types": "./grid/index.d.ts",
+      "esm2022": "./esm2022/grid/freezesoul-nz-formly-grid.mjs",
+      "esm": "./esm2022/grid/freezesoul-nz-formly-grid.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-grid.mjs"
+    },
+    "./modal": {
+      "types": "./modal/index.d.ts",
+      "esm2022": "./esm2022/modal/freezesoul-nz-formly-modal.mjs",
+      "esm": "./esm2022/modal/freezesoul-nz-formly-modal.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-modal.mjs"
+    },
+    "./modal-wrapper": {
+      "types": "./modal-wrapper/index.d.ts",
+      "esm2022": "./esm2022/modal-wrapper/freezesoul-nz-formly-modal-wrapper.mjs",
+      "esm": "./esm2022/modal-wrapper/freezesoul-nz-formly-modal-wrapper.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-modal-wrapper.mjs"
+    },
+    "./radio": {
+      "types": "./radio/index.d.ts",
+      "esm2022": "./esm2022/radio/freezesoul-nz-formly-radio.mjs",
+      "esm": "./esm2022/radio/freezesoul-nz-formly-radio.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-radio.mjs"
+    },
+    "./rate": {
+      "types": "./rate/index.d.ts",
+      "esm2022": "./esm2022/rate/freezesoul-nz-formly-rate.mjs",
+      "esm": "./esm2022/rate/freezesoul-nz-formly-rate.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-rate.mjs"
+    },
+    "./repeat": {
+      "types": "./repeat/index.d.ts",
+      "esm2022": "./esm2022/repeat/freezesoul-nz-formly-repeat.mjs",
+      "esm": "./esm2022/repeat/freezesoul-nz-formly-repeat.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-repeat.mjs"
+    },
+    "./ref-template": {
+      "types": "./ref-template/index.d.ts",
+      "esm2022": "./esm2022/ref-template/freezesoul-nz-formly-ref-template.mjs",
+      "esm": "./esm2022/ref-template/freezesoul-nz-formly-ref-template.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-ref-template.mjs"
+    },
+    "./select": {
+      "types": "./select/index.d.ts",
+      "esm2022": "./esm2022/select/freezesoul-nz-formly-select.mjs",
+      "esm": "./esm2022/select/freezesoul-nz-formly-select.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-select.mjs"
+    },
+    "./slider": {
+      "types": "./slider/index.d.ts",
+      "esm2022": "./esm2022/slider/freezesoul-nz-formly-slider.mjs",
+      "esm": "./esm2022/slider/freezesoul-nz-formly-slider.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-slider.mjs"
+    },
+    "./space": {
+      "types": "./space/index.d.ts",
+      "esm2022": "./esm2022/space/freezesoul-nz-formly-space.mjs",
+      "esm": "./esm2022/space/freezesoul-nz-formly-space.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-space.mjs"
+    },
+    "./switch": {
+      "types": "./switch/index.d.ts",
+      "esm2022": "./esm2022/switch/freezesoul-nz-formly-switch.mjs",
+      "esm": "./esm2022/switch/freezesoul-nz-formly-switch.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-switch.mjs"
+    },
+    "./table": {
+      "types": "./table/index.d.ts",
+      "esm2022": "./esm2022/table/freezesoul-nz-formly-table.mjs",
+      "esm": "./esm2022/table/freezesoul-nz-formly-table.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-table.mjs"
+    },
+    "./tabs": {
+      "types": "./tabs/index.d.ts",
+      "esm2022": "./esm2022/tabs/freezesoul-nz-formly-tabs.mjs",
+      "esm": "./esm2022/tabs/freezesoul-nz-formly-tabs.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-tabs.mjs"
+    },
+    "./tag": {
+      "types": "./tag/index.d.ts",
+      "esm2022": "./esm2022/tag/freezesoul-nz-formly-tag.mjs",
+      "esm": "./esm2022/tag/freezesoul-nz-formly-tag.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-tag.mjs"
+    },
+    "./text-value": {
+      "types": "./text-value/index.d.ts",
+      "esm2022": "./esm2022/text-value/freezesoul-nz-formly-text-value.mjs",
+      "esm": "./esm2022/text-value/freezesoul-nz-formly-text-value.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-text-value.mjs"
+    },
+    "./textarea": {
+      "types": "./textarea/index.d.ts",
+      "esm2022": "./esm2022/textarea/freezesoul-nz-formly-textarea.mjs",
+      "esm": "./esm2022/textarea/freezesoul-nz-formly-textarea.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-textarea.mjs"
+    },
+    "./time-picker": {
+      "types": "./time-picker/index.d.ts",
+      "esm2022": "./esm2022/time-picker/freezesoul-nz-formly-time-picker.mjs",
+      "esm": "./esm2022/time-picker/freezesoul-nz-formly-time-picker.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-time-picker.mjs"
+    },
+    "./tree": {
+      "types": "./tree/index.d.ts",
+      "esm2022": "./esm2022/tree/freezesoul-nz-formly-tree.mjs",
+      "esm": "./esm2022/tree/freezesoul-nz-formly-tree.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-tree.mjs"
+    },
+    "./tree-select": {
+      "types": "./tree-select/index.d.ts",
+      "esm2022": "./esm2022/tree-select/freezesoul-nz-formly-tree-select.mjs",
+      "esm": "./esm2022/tree-select/freezesoul-nz-formly-tree-select.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-tree-select.mjs"
+    },
+    "./upload": {
+      "types": "./upload/index.d.ts",
+      "esm2022": "./esm2022/upload/freezesoul-nz-formly-upload.mjs",
+      "esm": "./esm2022/upload/freezesoul-nz-formly-upload.mjs",
+      "default": "./fesm2022/freezesoul-nz-formly-upload.mjs"
+    }
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

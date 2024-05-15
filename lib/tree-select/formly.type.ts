@@ -1,9 +1,9 @@
 import { TemplateRef } from '@angular/core';
-import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
+import { AsyncFormlyOptions, ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
 import { NzTreeSelectComponent } from 'ng-zorro-antd/tree-select';
 import { NzFormatEmitEvent, NzTreeNode, NzTreeNodeOptions } from 'ng-zorro-antd/tree';
 import { NzSafeAny } from 'ng-zorro-antd/core/types';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * 多行文本模板配置

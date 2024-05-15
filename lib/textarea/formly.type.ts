@@ -1,6 +1,6 @@
-import { ControlOptions, NzFormlyFieldConfig } from '@xmagic/nz-formly/common';
-import { BaseInputOptions } from '@xmagic/nz-formly/input';
-import { FieldWrapperOptions } from '@xmagic/nz-formly/field-wrapper';
+import { ControlOptions, NzFormlyFieldConfig } from '@freezesoul/nz-formly/common';
+import { BaseInputOptions } from '@freezesoul/nz-formly/input';
+import { FieldWrapperOptions } from '@freezesoul/nz-formly/field-wrapper';
 
 /**
  * 多行文本模板配置

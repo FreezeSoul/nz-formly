@@ -2,7 +2,7 @@ import { ChangeDetectionStrategy, Component, OnDestroy, OnInit, Optional, ViewCh
 import { FieldWrapper } from '@ngx-formly/core';
 import { NzDropDownDirective, NzDropdownMenuComponent } from 'ng-zorro-antd/dropdown';
 import { Subscription } from 'rxjs';
-import { FormlyBoxTemplates, findField } from '@xmagic/nz-formly/common';
+import { FormlyBoxTemplates, findField } from '@freezesoul/nz-formly/common';
 
 @Component({
   selector: 'nz-formly-dropdown-wrapper',

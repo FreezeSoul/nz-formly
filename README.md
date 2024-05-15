@@ -1,5 +1,7 @@
 # NzFormly
 
+注：切换至16.x版本，原版地址：https://m310851010.github.io/nz-formly
+
 基于ng-zorro-antd UI 扩展的ngx-formly组件库
 
 ## demo
@@ -12,7 +14,7 @@
 ### 安装
 
 ```shell
-npm i @ngx-formly/core @xmagic/nz-formly @xmagic/nzx-antd
+npm i @ngx-formly/core @freezesoul/nz-formly @freezesoul/nzx-antd
 ```
 
 ### 导入模块
@@ -20,7 +22,7 @@ npm i @ngx-formly/core @xmagic/nz-formly @xmagic/nzx-antd
 ```ts
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { NzFormlyModule } from '@xmagic/nz-formly';
+import { NzFormlyModule } from '@freezesoul/nz-formly';
 import { FormlyModule } from '@ngx-formly/core';
 
 /**
@@ -44,20 +46,20 @@ export class AppModule {}
 ```ts
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { NzFormlyModule } from '@xmagic/nz-formly';
+import { NzFormlyModule } from '@freezesoul/nz-formly';
 import { FormlyModule } from '@ngx-formly/core';
-import { FormlyCommonModule } from '@xmagic/nz-formly/common';
-import { FormlyNzCheckboxModule } from '@xmagic/nz-formly/checkbox';
-import { FormlyNzInputModule } from '@xmagic/nz-formly/input';
-import { FormlyNzDatePickerModule } from '@xmagic/nz-formly/date-picker';
-import { FormlyNzDateRangePickerModule } from '@xmagic/nz-formly/date-range-picker';
-import { FormlyNzRadioModule } from '@xmagic/nz-formly/radio';
-import { FormlyNzGridModule } from '@xmagic/nz-formly/grid';
-import { FormlyNzFormFieldModule } from '@xmagic/nz-formly/field-wrapper';
-import { FormlyNzTextareaModule } from '@xmagic/nz-formly/textarea';
-import { FormlyNzTextValueModule } from '@xmagic/nz-formly/text-value';
-import { FormlyNzSelectModule } from '@xmagic/nz-formly/select';
-import { FormlyNzSwitchModule } from '@xmagic/nz-formly/switch';
+import { FormlyCommonModule } from '@freezesoul/nz-formly/common';
+import { FormlyNzCheckboxModule } from '@freezesoul/nz-formly/checkbox';
+import { FormlyNzInputModule } from '@freezesoul/nz-formly/input';
+import { FormlyNzDatePickerModule } from '@freezesoul/nz-formly/date-picker';
+import { FormlyNzDateRangePickerModule } from '@freezesoul/nz-formly/date-range-picker';
+import { FormlyNzRadioModule } from '@freezesoul/nz-formly/radio';
+import { FormlyNzGridModule } from '@freezesoul/nz-formly/grid';
+import { FormlyNzFormFieldModule } from '@freezesoul/nz-formly/field-wrapper';
+import { FormlyNzTextareaModule } from '@freezesoul/nz-formly/textarea';
+import { FormlyNzTextValueModule } from '@freezesoul/nz-formly/text-value';
+import { FormlyNzSelectModule } from '@freezesoul/nz-formly/select';
+import { FormlyNzSwitchModule } from '@freezesoul/nz-formly/switch';
 
 /**
  * ngx-formly的nz组件, 包含常用的表单组件
@@ -209,7 +211,7 @@ export class AppComponent {
 - angular 13.0+
 - ng-zorro-antd 13.0+
 - @ngx-formly/core 6.0+
-- @xmagic/nzx-antd 13.0+ (angular 14 请安装@xmagic/nzx-antd 14.0+)
+- @freezesoul/nzx-antd 13.0+ (angular 14 请安装@freezesoul/nzx-antd 14.0+)
 
 ### License
 

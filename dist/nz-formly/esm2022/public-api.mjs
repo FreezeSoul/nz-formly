@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of nz-formly
+ */
+export * from './nz-formly.service';
+export * from './nz-formly.module';
+export * from './formly.type';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL2xpYi9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxxQkFBcUIsQ0FBQztBQUNwQyxjQUFjLG9CQUFvQixDQUFDO0FBQ25DLGNBQWMsZUFBZSxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG56LWZvcm1seVxyXG4gKi9cclxuXHJcbmV4cG9ydCAqIGZyb20gJy4vbnotZm9ybWx5LnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL256LWZvcm1seS5tb2R1bGUnO1xyXG5leHBvcnQgKiBmcm9tICcuL2Zvcm1seS50eXBlJztcclxuIl19

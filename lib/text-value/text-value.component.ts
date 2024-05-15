@@ -1,6 +1,6 @@
 import { ChangeDetectionStrategy, Component, OnDestroy, OnInit } from '@angular/core';
 import { FieldType } from '@ngx-formly/core';
-import { NzxUtils } from '@xmagic/nzx-antd/util';
+import { NzxUtils } from '@freezesoul/nzx-antd/util';
 import { Observable, of, Subscription } from 'rxjs';
 import { TextFieldConfig } from './formly.type';
 
